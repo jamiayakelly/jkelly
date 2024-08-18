@@ -1,2 +1,2 @@
-# jkelly
+# landing page
 My Portfolio
